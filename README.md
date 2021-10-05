@@ -1,2 +1,3 @@
 # faithm2020.github.io
-djjdkdksmas
+This is my first lab work for Web Programming.
+Above is the link for my website.
